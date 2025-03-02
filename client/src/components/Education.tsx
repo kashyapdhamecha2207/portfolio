@@ -23,7 +23,7 @@ export default function Education() {
                 <div>
                   <h3 className="text-xl font-semibold">Bachelor of Technology</h3>
                   <p className="text-muted-foreground mb-2">Computer Science and Engineering</p>
-                  <p className="text-sm">Rai University - 2023 - Present</p>
+                  <p className="text-sm">Rai University - 2024 - Present</p>
                   <ul className="mt-4 space-y-2 list-disc list-inside text-muted-foreground">
                     <li>First Year Student</li>
                     <li>Currently studying core CS subjects</li>
