@@ -5,22 +5,10 @@ import { Github, ExternalLink } from "lucide-react";
 
 const projects = [
   {
-    title: "Weather App",
-    description: "A simple weather application built with HTML, CSS, and JavaScript.",
-    github: "https://github.com/johndoe/weather-app",
-    demo: "https://weather-app.demo.com"
-  },
-  {
-    title: "Todo List",
-    description: "A React-based todo list application with local storage.",
-    github: "https://github.com/johndoe/todo-list",
-    demo: "https://todo-list.demo.com"
-  },
-  {
-    title: "Calculator",
-    description: "A basic calculator web application with modern UI.",
-    github: "https://github.com/johndoe/calculator",
-    demo: "https://calculator.demo.com"
+    title: "Disney.in Clone",
+    description: "A full-featured clone of Disney.in website built with modern web technologies, showcasing responsive design and interactive UI elements.",
+    github: "https://github.com/kashyapdhamecha2207/disney.in-clone-",
+    demo: "https://classworks-2-0.onrender.com/"
   }
 ];
 
