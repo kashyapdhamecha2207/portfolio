@@ -23,7 +23,12 @@ export default function Contact() {
                 </p>
 
                 <div className="flex justify-center gap-4">
-                  <Button variant="outline" size="icon" asChild>
+                  <Button 
+                    variant="outline" 
+                    size="icon" 
+                    className="hover:bg-[#24292e] hover:text-white transition-colors" 
+                    asChild
+                  >
                     <a
                       href="https://github.com/kashyapdhamecha2207"
                       target="_blank"
@@ -33,7 +38,12 @@ export default function Contact() {
                     </a>
                   </Button>
 
-                  <Button variant="outline" size="icon" asChild>
+                  <Button 
+                    variant="outline" 
+                    size="icon" 
+                    className="hover:bg-[#0A66C2] hover:text-white transition-colors" 
+                    asChild
+                  >
                     <a
                       href="https://www.linkedin.com/in/kashyap07/"
                       target="_blank"
@@ -43,7 +53,12 @@ export default function Contact() {
                     </a>
                   </Button>
 
-                  <Button variant="outline" size="icon" asChild>
+                  <Button 
+                    variant="outline" 
+                    size="icon" 
+                    className="hover:bg-black hover:text-white transition-colors" 
+                    asChild
+                  >
                     <a
                       href="https://x.com/sirdhamecha"
                       target="_blank"
@@ -53,7 +68,12 @@ export default function Contact() {
                     </a>
                   </Button>
 
-                  <Button variant="outline" size="icon" asChild>
+                  <Button 
+                    variant="outline" 
+                    size="icon"
+                    className="hover:bg-primary hover:text-white transition-colors"
+                    asChild
+                  >
                     <a href="mailto:kashyap.dhamecha.cg@gmail.com">
                       <Mail className="h-5 w-5" />
                     </a>
