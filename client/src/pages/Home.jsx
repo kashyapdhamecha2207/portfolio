@@ -3,6 +3,7 @@ import Hero from "@/components/Hero";
 import About from "@/components/About";
 import Education from "@/components/Education";
 import Projects from "@/components/Projects";
+import FigmaProjects from "@/components/FigmaProjects";
 import Hobbies from "@/components/Hobbies";
 import Contact from "@/components/Contact";
 
@@ -15,6 +16,7 @@ export default function Home() {
         <About />
         <Education />
         <Projects />
+        <FigmaProjects />
         <Hobbies />
         <Contact />
       </main>

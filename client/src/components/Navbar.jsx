@@ -8,6 +8,7 @@ const links = [
   { href: "#about", label: "About" },
   { href: "#education", label: "Education" },
   { href: "#projects", label: "Projects" },
+  { href: "#figma-projects", label: "Figma Projects" },
   { href: "#hobbies", label: "Hobbies" },
   { href: "#contact", label: "Contact" }
 ];
