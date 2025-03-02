@@ -27,7 +27,7 @@ export default function Education() {
                   <ul className="mt-4 space-y-2 list-disc list-inside text-muted-foreground">
                     <li>First Year Student</li>
                     <li>Currently studying core CS subjects</li>
-                    <li>Active member of the College Coding Club</li>
+                    <li>Student Of Coding Gita Classes</li>
                     <li>Semester 1 CGPA: 9.19</li>
                   </ul>
                 </div>
