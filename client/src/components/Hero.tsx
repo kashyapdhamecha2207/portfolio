@@ -14,7 +14,7 @@ export default function Hero() {
           opacity: 0.1
         }}
       />
-      
+
       <div className="container mx-auto px-4 z-10">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
@@ -24,7 +24,7 @@ export default function Hero() {
         >
           <h1 className="text-4xl md:text-6xl font-bold mb-6">
             <span className="bg-gradient-to-r from-primary to-blue-600 bg-clip-text text-transparent">
-              John Doe
+              Kashyap Dhamecha
             </span>
           </h1>
           <p className="text-xl md:text-2xl text-muted-foreground mb-8">

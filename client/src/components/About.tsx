@@ -12,24 +12,24 @@ export default function About() {
           viewport={{ once: true }}
         >
           <h2 className="text-3xl font-bold mb-8 text-center">About Me</h2>
-          
+
           <Card>
             <CardContent className="p-6">
               <div className="grid md:grid-cols-2 gap-8">
                 <div>
                   <h3 className="text-xl font-semibold mb-4">Personal Details</h3>
                   <ul className="space-y-2">
-                    <li><strong>Name:</strong> John Doe</li>
+                    <li><strong>Name:</strong> Kashyap Dhamecha</li>
                     <li><strong>Age:</strong> 18 years</li>
-                    <li><strong>Location:</strong> Mumbai, India</li>
-                    <li><strong>Email:</strong> john.doe@email.com</li>
+                    <li><strong>Location:</strong> Gujarat, India</li>
+                    <li><strong>Email:</strong> kashyap.dhamecha.cg@gmail.com</li>
                   </ul>
                 </div>
-                
+
                 <div>
                   <h3 className="text-xl font-semibold mb-4">Bio</h3>
                   <p className="text-muted-foreground">
-                    I am a passionate first-year B.Tech student with a keen interest in technology and innovation. 
+                    I am a passionate first-year B.Tech student at Rai University with a keen interest in technology and innovation. 
                     Currently exploring various aspects of computer science and engineering to build a strong foundation 
                     for my future career in tech.
                   </p>

@@ -21,47 +21,47 @@ export default function Contact() {
                 <p className="text-muted-foreground mb-6">
                   Feel free to reach out to me through any of these platforms:
                 </p>
-                
+
                 <div className="flex justify-center gap-4">
                   <Button variant="outline" size="icon" asChild>
                     <a
-                      href="https://github.com/johndoe"
+                      href="https://github.com/kashyapdhamecha2207"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
                       <Github className="h-5 w-5" />
                     </a>
                   </Button>
-                  
+
                   <Button variant="outline" size="icon" asChild>
                     <a
-                      href="https://linkedin.com/in/johndoe"
+                      href="https://www.linkedin.com/in/kashyap07/"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
                       <Linkedin className="h-5 w-5" />
                     </a>
                   </Button>
-                  
+
                   <Button variant="outline" size="icon" asChild>
                     <a
-                      href="https://twitter.com/johndoe"
+                      href="https://x.com/sirdhamecha"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
                       <Twitter className="h-5 w-5" />
                     </a>
                   </Button>
-                  
+
                   <Button variant="outline" size="icon" asChild>
-                    <a href="mailto:john.doe@email.com">
+                    <a href="mailto:kashyap.dhamecha.cg@gmail.com">
                       <Mail className="h-5 w-5" />
                     </a>
                   </Button>
                 </div>
 
                 <p className="mt-6 text-sm text-muted-foreground">
-                  Email: john.doe@email.com
+                  Email: kashyap.dhamecha.cg@gmail.com
                 </p>
               </div>
             </CardContent>
