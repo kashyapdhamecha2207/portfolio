@@ -3,24 +3,19 @@ import { motion } from "framer-motion";
 
 const hobbies = [
   {
-    title: "Photography",
-    image: "https://images.unsplash.com/photo-1532778489370-ffc5d2095091",
-    description: "Capturing moments and exploring visual storytelling"
+    title: "Cricket",
+    image: "https://images.unsplash.com/photo-1531415074968-036ba1b575da",
+    description: "Playing and following cricket matches, enjoying the spirit of the game"
   },
   {
-    title: "Reading",
-    image: "https://images.unsplash.com/photo-1532778597765-a2a1c4dda1ec",
-    description: "Enjoying both fiction and technical books"
+    title: "Esports",
+    image: "https://images.unsplash.com/photo-1542751371-adc38448a05e",
+    description: "Competitive gaming and following esports tournaments"
   },
   {
-    title: "Chess",
-    image: "https://images.unsplash.com/photo-1612016369369-cb4c9f480d70",
-    description: "Strategic thinking and mental exercise"
-  },
-  {
-    title: "Music",
-    image: "https://images.unsplash.com/photo-1612016520089-2a0258448153",
-    description: "Playing guitar and composing songs"
+    title: "Travelling",
+    image: "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1",
+    description: "Exploring new places and experiencing different cultures"
   }
 ];
 
@@ -36,7 +31,7 @@ export default function Hobbies() {
         >
           <h2 className="text-3xl font-bold mb-8 text-center">Hobbies</h2>
 
-          <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
+          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
             {hobbies.map((hobby, index) => (
               <Card key={index} className="overflow-hidden">
                 <img
